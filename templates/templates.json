@@ -1,0 +1,18 @@
+[
+  {
+    "id": "template-1",
+    "name": "My First Template",
+    "description": "A custom template from my GitHub repo.",
+    "category": "Custom",
+    "file": "100rabhcsmc.md", 
+    "tags": ["github", "custom"]
+  },
+  {
+    "id": "template-2",
+    "name": "Nishant's Template",
+    "description": "Another awesome template.",
+    "category": "Personal",
+    "file": "1010nishant.md",
+    "tags": ["personal"]
+  }
+]

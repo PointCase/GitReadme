@@ -29,12 +29,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-## 👋 About Me
-
-I'm a developer who enjoys solving problems, learning new technologies, and working on projects that make an impact.## 🛠 Skills
-
-- **Languages**: JavaScript, Python, ...
-- **Tools**: Git, Docker, ...## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=radical)
+</P>

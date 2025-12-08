@@ -84,12 +84,3 @@ If you're building something in **cloud**, **devtools**, **observability**, or *
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aryasoni98.aryasoni98)
 ![GitHub followers](https://img.shields.io/github/followers/aryasoni98?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/aryasoni98?style=social)
-
-## 👋 About Me
-
-I'm a developer who enjoys solving problems, learning new technologies, and working on projects that make an impact.## 🛠 Skills
-
-- **Languages**: JavaScript, Python, ...
-- **Tools**: Git, Docker, ...## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryasoni98&show_icons=true&theme=radical)

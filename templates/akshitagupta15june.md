@@ -111,13 +111,3 @@ I am currently pursuing Master of Technology (MTech) program at IIIT Pune, focus
 
 
 
-
-
-## 👋 About Me
-
-I'm a developer who enjoys solving problems, learning new technologies, and working on projects that make an impact.## 🛠 Skills
-
-- **Languages**: JavaScript, Python, ...
-- **Tools**: Git, Docker, ...## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshitagupta15june&show_icons=true&theme=radical)

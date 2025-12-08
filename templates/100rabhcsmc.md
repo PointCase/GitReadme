@@ -60,11 +60,5 @@ Saurabh</a></h1>
 - [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
 <!-- BLOG-POST-LIST:END -->
 
-## 👋 About Me
-
-I'm a developer who enjoys solving problems, learning new technologies, and working on projects that make an impact.## 🛠 Skills
-
-- **Languages**: JavaScript, Python, ...
-- **Tools**: Git, Docker, ...## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=100rabhcsmc&show_icons=true&theme=radical)

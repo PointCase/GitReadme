@@ -217,16 +217,3 @@
 </div>
 
 ---
-
-Credit: [ashu-guo](https://github.com/ashu-guo)
-
-Last Edited on 03/01/2024
-
-## 👋 About Me
-
-I'm a developer who enjoys solving problems, learning new technologies, and working on projects that make an impact.## 🛠 Skills
-
-- **Languages**: JavaScript, Python, ...
-- **Tools**: Git, Docker, ...## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aShu-guo&show_icons=true&theme=radical)

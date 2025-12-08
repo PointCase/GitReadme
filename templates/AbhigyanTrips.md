@@ -32,11 +32,3 @@
 
 [![Abhigyan Trips' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhigyantrips&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://abhigyantrips.dev)
 
-## 👋 About Me
-
-I'm a developer who enjoys solving problems, learning new technologies, and working on projects that make an impact.## 🛠 Skills
-
-- **Languages**: JavaScript, Python, ...
-- **Tools**: Git, Docker, ...## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=radical)

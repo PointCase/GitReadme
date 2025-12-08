@@ -52,12 +52,3 @@ Sign-in with Ethereum allows you to securely log in using a wallet and verify th
 <p align="center">  
 <a href="https://blog.avneesh.tech/"><img src="https://user-images.githubusercontent.com/76690419/142756081-13352f92-8482-4a86-acbb-72dc164e8746.png" alt="Read more" width="200"/></a>
 </p>
-
-## 👋 About Me
-
-I'm a developer who enjoys solving problems, learning new technologies, and working on projects that make an impact.## 🛠 Skills
-
-- **Languages**: JavaScript, Python, ...
-- **Tools**: Git, Docker, ...## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avneesh0612&show_icons=true&theme=radical)

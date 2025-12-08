@@ -25,15 +25,6 @@
 
 - 🔭 **Looking to collaborate on**: [JobWebsites](https://gist.github.com/AhmedOsmanDev/950f28910c9a3804c8d39d8d5f042916) and [FreelanceWebsites](https://gist.github.com/AhmedOsmanDev/0861a0a926bfd5c1b0e85dd827c1efe9).
 
-<!-- * 🔭 **Looking to collaborate on**: [LeetCode-Solutions](https://github.com/AhmedOsmanDev/LeetCode-Solutions), [HackerRank-Solutions](https://github.com/AhmedOsmanDev/HackerRank-Solutions), and [Codeforces-Solutions](https://github.com/AhmedOsmanDev/Codeforces-Solutions).
-
-* 🔭 **I’m currently working on**: [BookStore.MVC](https://github.com/AhmedOsmanDev/BookStore.MVC).
-* 🔭 **Looking to collaborate on**: [Fathy.Common](https://github.com/AhmedOsmanDev/Fathy.Common).
-* 🌱 **Currently learning**: `Object-Oriented`.
-* 💬 **Ask me about**: `.NET`.
-* 📫 **How to reach me**: Catch and follow me from the `above links 👆`, in addition to `follow me here`.
-* 🤔 **Currently open to work**: [RESUME](https://raw.githubusercontent.com/AhmedOsmanDev/AhmedFathyDev/main/RESUME.pdf). -->
-
 <div align="center">
     <h1>Skills</h1>
 </div>
@@ -81,11 +72,3 @@
     <img src="GitHub.gif" height="100">
     <p>Loading...</p>
 </div>
-## 👋 About Me
-
-I'm a developer who enjoys solving problems, learning new technologies, and working on projects that make an impact.## 🛠 Skills
-
-- **Languages**: JavaScript, Python, ...
-- **Tools**: Git, Docker, ...## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedOsmanDev&show_icons=true&theme=radical)

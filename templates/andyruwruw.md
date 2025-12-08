@@ -51,11 +51,3 @@ hello! here's a little about me:
   <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/skills.svg">
   <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/skills"> -->
 </p>
-## 👋 About Me
-
-I'm a developer who enjoys solving problems, learning new technologies, and working on projects that make an impact.## 🛠 Skills
-
-- **Languages**: JavaScript, Python, ...
-- **Tools**: Git, Docker, ...## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andyruwruw&show_icons=true&theme=radical)

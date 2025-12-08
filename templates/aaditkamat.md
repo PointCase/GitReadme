@@ -34,11 +34,5 @@ My first name means **Peak** or **Sun God**
 
 Feel free to reach me at: **aadit_kamat@u.nus.edu** or **aaditkmt@gmail.com**
 
-## 👋 About Me
-
-I'm a developer who enjoys solving problems, learning new technologies, and working on projects that make an impact.## 🛠 Skills
-
-- **Languages**: JavaScript, Python, ...
-- **Tools**: Git, Docker, ...## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaditkamat&show_icons=true&theme=radical)

@@ -39,11 +39,3 @@ or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me.
 <a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
-## 👋 About Me
-
-I'm a developer who enjoys solving problems, learning new technologies, and working on projects that make an impact.## 🛠 Skills
-
-- **Languages**: JavaScript, Python, ...
-- **Tools**: Git, Docker, ...## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABSphreak&show_icons=true&theme=radical)
